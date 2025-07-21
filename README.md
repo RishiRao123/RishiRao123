@@ -30,7 +30,7 @@ Currently exploring the exciting world of **Generative AI** and how it integrate
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub"></code>
+<code><img height="27" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" alt="GitHub"></code>
 
 ---
 

@@ -8,37 +8,39 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** and a passionate **CS Student** diving deep into the world of tech.  
-I thrive on solving real-world problems, building scalable applications, and learning cutting-edge technologies.
-
-🚀 **Mission:**  
-To build robust, user-centric applications that blend backend efficiency with frontend elegance — and drive innovation through full-stack development.
-
-Currently exploring the exciting world of **Generative AI** and how it integrates into modern applications.
+I'm a **MERN Stack Developer** and a passionate **Computer Science student** who enjoys building full-stack applications and solving real-world problems.  
+I love working with modern web technologies, exploring new frameworks, and continuously improving my coding skills.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" alt="Laravel"></code>
+<code><img height="27" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwind CSS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
 <code><img height="27" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" alt="GitHub"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma"></code>
 
 ---
 
 ### 🔍 Currently Exploring
 
-- 🔭 Generative AI and Large Language Models (LLMs)
-- 💡 Building full-stack apps that leverage AI features
-- 🌱 Leveling up skills in modern backend & frontend architectures
+- 🚀 Generative AI and AI-integrated applications  
+- 🌱 Advanced MERN stack patterns & full-stack architectures  
+- 💡 Building scalable and user-friendly web apps  
 
 ---
 
@@ -62,9 +64,9 @@ Currently exploring the exciting world of **Generative AI** and how it integrate
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [rishiraopuskuri@gmail.com](mailto:rishiraopuskuri@gmail.com)
-- 🐦 Twitter: [@RisxiRao](https://twitter.com/RisxiRao)
-- 💼 LinkedIn: [Rishi Rao Pooskuri](https://linkedin.com/in/rishipooskuri)
+- 📧 Email: [rishiraopuskuri@gmail.com](mailto:rishiraopuskuri@gmail.com)  
+- 🐦 Twitter: [@RisxiRao](https://twitter.com/RisxiRao)  
+- 💼 LinkedIn: [Rishi Rao Pooskuri](https://linkedin.com/in/rishipooskuri)  
 
 ---
 

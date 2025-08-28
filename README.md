@@ -60,11 +60,6 @@ Currently exploring the exciting world of **Generative AI** and how it integrate
 
 ---
 
-### ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
 
 ---
 

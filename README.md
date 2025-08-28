@@ -60,9 +60,6 @@ Currently exploring the exciting world of **Generative AI** and how it integrate
 
 ---
 
-
----
-
 ### 📫 How to Reach Me
 
 - 📧 Email: [rishiraopuskuri@gmail.com](mailto:rishiraopuskuri@gmail.com)
